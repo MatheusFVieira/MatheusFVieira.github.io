@@ -60,6 +60,10 @@ nav a:hover {
     background-color: var(--secondary-color);
 }
 
+body a:hover {
+    color: black;
+}
+
 header {
     text-align: center;
     padding-top: 70px;
