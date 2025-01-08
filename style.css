@@ -33,6 +33,10 @@ a {
     color: var(--highlight-color);
 }
 
+a:hover {
+    color: black;
+}
+
 nav {
     background-color: var(--main-color);
     position: fixed;
@@ -60,9 +64,6 @@ nav a:hover {
     background-color: var(--secondary-color);
 }
 
-body a:hover {
-    color: black;
-}
 
 header {
     text-align: center;
