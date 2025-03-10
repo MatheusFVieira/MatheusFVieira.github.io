@@ -139,6 +139,11 @@ footer h2{
     color: #F0F8FF;
 }
 
+.previsao {
+    font-size: 12px;
+  }
+  
+
 @media (max-width: 768px) {
     nav ul {
         flex-direction: column;
