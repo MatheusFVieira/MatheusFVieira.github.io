@@ -5,7 +5,7 @@ Este repositório contém o código-fonte do meu currículo pessoal, hospedado n
 ## 🚀 Acesso ao Currículo
 
 Você pode visualizar o currículo online através do seguinte link:
-[Meu Currículo no GitHub Pages](https://MatheusFVieira.github.io)
+[Currículo](https://MatheusFVieira.github.io)
 
 ## 📄 Sobre o Projeto
 
@@ -30,8 +30,8 @@ Confira também meu portfólio completo com outros projetos:
 
 Sinta-se à vontade para entrar em contato comigo através do e-mail ou redes sociais:
 - **Email:** matheus.vf06@gmail.com
-- **LinkedIn:** [seulinkedin](https://www.linkedin.com/in/matheus-freitas-vieira-1b06ba278/?originalSubdomain=br)
-- **GitHub:** [seugitHub](https://github.com/MatheusFVieira)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/matheus-freitas-vieira-1b06ba278/?originalSubdomain=br)
+- **GitHub:** [GitHub](https://github.com/MatheusFVieira)
 
 ---
 
