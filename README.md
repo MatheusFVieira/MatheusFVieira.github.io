@@ -20,7 +20,10 @@ O objetivo deste projeto é apresentar minhas informações profissionais, inclu
 Confira também meu portfólio completo com outros projetos:
 
 [Casa de aposta ficticia](https://matheusfvieira.github.io/coltecbet/)
-[Site estático de um mini game desenvolvido com php](https://matheusfvieira.github.io/WebDev_Show-do_Bilhao/)
+
+[Site estático de um mini game desenvolvido com php](https://matheusfvieira.github.io/WebDev_Show-do_Bilhao/)*
+
+*Site não funciona pois o GitHub pages não suporta php!
 
 ## 🛠️ Tecnologias Utilizadas
 
