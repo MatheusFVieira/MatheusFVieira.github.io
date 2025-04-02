@@ -23,7 +23,7 @@ Confira também meu portfólio completo com outros projetos:
 
 [Mini game (Show do Bilhão) desenvolvido com php](https://matheusfvieira.github.io/WebDev_Show-do_Bilhao/)*
 
-*Site não funciona pois o GitHub pages não suporta php!
+*Site estático pois o GitHub pages não suporta php!
 
 ## 🛠️ Tecnologias Utilizadas
 
