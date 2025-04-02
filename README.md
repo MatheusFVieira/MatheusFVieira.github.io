@@ -17,7 +17,8 @@ O objetivo deste projeto é apresentar minhas informações profissionais, inclu
 
 ## 📚 Portfólio
 
-Confira também meu portfólio completo com outros projetos:\n
+Confira também meu portfólio completo com outros projetos:
+
 [Casa de aposta ficticia](https://matheusfvieira.github.io/coltecbet/)
 
 ## 🛠️ Tecnologias Utilizadas
